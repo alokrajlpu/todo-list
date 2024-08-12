@@ -1,0 +1,32 @@
+.App {
+  background-image: url("/src/black.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  color: white;
+}
+input {
+  margin: 5px;
+  padding: 5px;
+}
+
+button {
+  margin: 5px;
+  padding: 5px 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+  display: flex;
+  align-items: center;
+}
+
+button {
+  margin-left: 10px;
+}
